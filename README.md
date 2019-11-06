@@ -31,4 +31,6 @@ Feelings (apr 2014) : constructs, adv structures, multi-arrays
 
 TicTacToe (mar 2014)  : constructs, adv structures, 2d-arrays
 
-ServiceCharge (mar 2014) : constructs, adv structures,
+ServiceCharge (mar 2014) : constructs, adv structures
+
+MyUnitPrice (nov 2018) : constructs, adv structures, complex math
